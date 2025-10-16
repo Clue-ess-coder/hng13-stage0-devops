@@ -8,4 +8,4 @@ HNG stage 0 task on web server deployment with NGINX
 
 ## Server domain
 
-https://unpromotable-chary-vernita.ngrok-free.dev/
+http://3.21.227.91/
